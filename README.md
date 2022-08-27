@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandeepDev1 aka **_Sai Sandeep_**
+- 👋 Hi, I’m **_Sai Sandeep_**
 - 👀 I’m interested in Blockchain , Fullstack WebDevelopment, Mobile Development, Smart Contracts and AI ( who not )
 - 🌱 I’m currently learning Solidity and Flutter
 - 💞️ I’m looking to collaborate on any Smart Contract related project, Full Stack Web Project or any Backend related project in Golang / Nodejs / Python
